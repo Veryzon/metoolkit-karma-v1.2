@@ -66,3 +66,7 @@ You can also contribute or address to any doubt or difficult although by join th
 The SIGMA thanks [all the contributors][contributors] by their individual and collective involvements in the development of this project.
 
 [![all-contributors](https://contrib.rocks/image?repo=sigmaco/metoolkit-karma-v1.2&columns=16)][contributors]
+
+[license]: https://github.com/sigmaco/metoolkit-karma-v1.2/blob/master/LICENSE.txt
+[contributors]: https://github.com/sigmaco/metoolkit-karma-v1.2/graphs/contributors
+[contribute-guide]: https://github.com/sigmaco/metoolkit-karma-v1.2/blob/master/docs/CONTRIBUTING.md
