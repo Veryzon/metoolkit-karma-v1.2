@@ -65,4 +65,4 @@ You can also contribute or address to any doubt or difficult although by join th
 
 The SIGMA thanks [all the contributors][contributors] by their individual and collective involvements in the development of this project.
 
-[![all-contributors](https://contrib.rocks/image?repo=sigmaco/afx&columns=16)][contributors]
+[![all-contributors](https://contrib.rocks/image?repo=sigmaco/metoolkit-karma-v1.2&columns=16)][contributors]
